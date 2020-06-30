@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BlitzkriegSoftware.CsvHelpers.Demo": {
+      "commandName": "Project",
+      "commandLineArgs": "-v -o data.csv -i data.csv "
+    }
+  }
+}
